@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|f:\\buro bd assignment\\ques-4\\companydashboard\\companydashboard\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|solutionrelative:companydashboard\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|f:\\buro bd assignment\\ques-4\\companydashboard\\companydashboard\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|solutionrelative:companydashboard\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|f:\\buro bd assignment\\ques-4\\companydashboard\\companydashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|solutionrelative:companydashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|f:\\buro bd assignment\\ques-4\\companydashboard\\companydashboard\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|solutionrelative:companydashboard\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|f:\\buro bd assignment\\ques-4\\companydashboard\\companydashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|solutionrelative:companydashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|f:\\buro bd assignment\\ques-4\\companydashboard\\companydashboard\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|solutionrelative:companydashboard\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|f:\\buro bd assignment\\ques-4\\companydashboard\\companydashboard\\hubs\\updatehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|solutionrelative:companydashboard\\hubs\\updatehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|f:\\buro bd assignment\\ques-4\\companydashboard\\companydashboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|solutionrelative:companydashboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Migrations\\20240513015454_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CompanyDashboard\\Migrations\\20240513015454_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|f:\\buro bd assignment\\ques-4\\companydashboard\\companydashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|solutionrelative:companydashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|f:\\buro bd assignment\\ques-4\\companydashboard\\companydashboard\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|solutionrelative:companydashboard\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|f:\\buro bd assignment\\ques-4\\companydashboard\\companydashboard\\hubs\\updatehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|solutionrelative:companydashboard\\hubs\\updatehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|f:\\buro bd assignment\\ques-4\\companydashboard\\companydashboard\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,6 +53,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|f:\\buro bd assignment\\ques-4\\companydashboard\\companydashboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|solutionrelative:companydashboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|f:\\buro bd assignment\\ques-4\\companydashboard\\companydashboard\\migrations\\20240513015454_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE05DA7-6ABD-4C3C-8B7E-3BF6D18CA741}|CompanyDashboard\\CompanyDashboard.csproj|solutionrelative:companydashboard\\migrations\\20240513015454_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +66,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CompanyDashboard\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CompanyDashboard\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T14:52:15.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CompanyDashboard\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CompanyDashboard\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T14:52:06.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CompanyDashboard\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CompanyDashboard\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:32:38.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CompanyDashboard\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CompanyDashboard\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T14:31:23.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "site.js",
               "DocumentMoniker": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "CompanyDashboard\\wwwroot\\js\\site.js",
@@ -67,33 +135,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "CompanyDashboard\\Views\\Dashboard\\Index.cshtml",
               "ToolTip": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "CompanyDashboard\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAABYAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-13T02:01:18.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "CompanyDashboard\\Controllers\\DashboardController.cs",
               "ToolTip": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "CompanyDashboard\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAcwCsAAAA3AAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwDIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T02:00:26.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "20240513015454_createdb.cs",
               "DocumentMoniker": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Migrations\\20240513015454_createdb.cs",
               "RelativeDocumentMoniker": "CompanyDashboard\\Migrations\\20240513015454_createdb.cs",
@@ -101,25 +169,24 @@
               "RelativeToolTip": "CompanyDashboard\\Migrations\\20240513015454_createdb.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T01:54:54.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T01:54:54.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Program.cs",
               "RelativeDocumentMoniker": "CompanyDashboard\\Program.cs",
               "ToolTip": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Program.cs",
               "RelativeToolTip": "CompanyDashboard\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAACIAAAAjAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T01:50:34.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "CompanyDashboard\\Models\\ApplicationDbContext.cs",
@@ -127,12 +194,11 @@
               "RelativeToolTip": "CompanyDashboard\\Models\\ApplicationDbContext.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAIwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T01:49:31.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T01:49:31.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "UpdateHub.cs",
               "DocumentMoniker": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Hubs\\UpdateHub.cs",
               "RelativeDocumentMoniker": "CompanyDashboard\\Hubs\\UpdateHub.cs",
@@ -140,12 +206,11 @@
               "RelativeToolTip": "CompanyDashboard\\Hubs\\UpdateHub.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T01:42:27.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T01:42:27.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "DepartmentModel.cs",
               "DocumentMoniker": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Models\\DepartmentModel.cs",
               "RelativeDocumentMoniker": "CompanyDashboard\\Models\\DepartmentModel.cs",
@@ -153,12 +218,11 @@
               "RelativeToolTip": "CompanyDashboard\\Models\\DepartmentModel.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAkwAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T01:45:24.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T01:45:24.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "EmployeeModel.cs",
               "DocumentMoniker": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\Models\\EmployeeModel.cs",
               "RelativeDocumentMoniker": "CompanyDashboard\\Models\\EmployeeModel.cs",
@@ -166,12 +230,11 @@
               "RelativeToolTip": "CompanyDashboard\\Models\\EmployeeModel.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAjwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T01:45:10.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T01:45:10.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\BURO BD Assignment\\Ques-4\\CompanyDashboard\\CompanyDashboard\\appsettings.json",
               "RelativeDocumentMoniker": "CompanyDashboard\\appsettings.json",
@@ -179,8 +242,7 @@
               "RelativeToolTip": "CompanyDashboard\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-13T01:43:39.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T01:43:39.631Z"
             }
           ]
         }

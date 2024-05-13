@@ -2,6 +2,7 @@
 using CompanyDashboard.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.SignalR;
+using Microsoft.EntityFrameworkCore;
 
 namespace CompanyDashboard.Controllers
 {
@@ -43,6 +44,11 @@ namespace CompanyDashboard.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateEmployee(EmployeeModel empData)
         {
+            // Check if the PIN is unique
+            if (await _context.Employees.AnyAsync(e => e.Pin == empData.Pin))
+            {
+                return BadRequest(new { error = "Employee with the same PIN already exists." });
+            }
             await _context.Employees.AddAsync(empData);
             await _context.SaveChangesAsync();
             await _hubContext.Clients.All.SendAsync("ReceiveUpdate");
