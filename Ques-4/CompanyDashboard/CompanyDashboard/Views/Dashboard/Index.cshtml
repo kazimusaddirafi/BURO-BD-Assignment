@@ -1,0 +1,32 @@
+﻿<!-- Update the table rendering code -->
+@model IEnumerable<dynamic>
+
+<h4 class="mb-3">Weolcome to BUROBD Dashboard</h4>
+
+
+<table class="table table-striped table-bordered" id="dashboardTable">
+    <thead>
+        <tr>
+            
+            <th scope="col">Department Name</th>
+            <th scope="col">Total Employee</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.DepartmentName</td>
+                <td>@item.EmployeeCount</td>
+            </tr>
+        }
+       
+    </tbody>
+</table>
+
+
+<!-- Add script tag for SignalR library -->
+<script src="~/js/signalr.js"></script>
+
+<script src="~/js/site.js"></script>

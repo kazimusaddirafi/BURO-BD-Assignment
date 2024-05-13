@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\BURO BD Assignment\\Ques-3\\RestApiCrud\\RestApiCrud\\RestApiCrud.csproj": {}
+    "F:\\BURO BD Assignment\\Ques-3\\RestApiCrud\\RestApiCrud.csproj": {}
   },
   "projects": {
-    "F:\\BURO BD Assignment\\Ques-3\\RestApiCrud\\RestApiCrud\\RestApiCrud.csproj": {
+    "F:\\BURO BD Assignment\\Ques-3\\RestApiCrud\\RestApiCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\BURO BD Assignment\\Ques-3\\RestApiCrud\\RestApiCrud\\RestApiCrud.csproj",
+        "projectUniqueName": "F:\\BURO BD Assignment\\Ques-3\\RestApiCrud\\RestApiCrud.csproj",
         "projectName": "RestApiCrud",
-        "projectPath": "F:\\BURO BD Assignment\\Ques-3\\RestApiCrud\\RestApiCrud\\RestApiCrud.csproj",
+        "projectPath": "F:\\BURO BD Assignment\\Ques-3\\RestApiCrud\\RestApiCrud.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "F:\\BURO BD Assignment\\Ques-3\\RestApiCrud\\RestApiCrud\\obj\\",
+        "outputPath": "F:\\BURO BD Assignment\\Ques-3\\RestApiCrud\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
