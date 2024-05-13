@@ -59,6 +59,14 @@ In this repo, I have added a total of 5 questions answer.
 | `id`      | `string` | **Required**. Id of item to fetch |
 
 
+## Ques-5  Login Page
+
+![image](https://github.com/kazimusaddirafi/BURO-BD-Assignment/assets/169454107/920add11-3784-49b3-9701-ba5f5c293699)
+
+![image](https://github.com/kazimusaddirafi/BURO-BD-Assignment/assets/169454107/d5a55383-42b3-48fc-b800-f86ef7873cae)
+
+
+
 
 
 
