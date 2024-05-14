@@ -71,5 +71,23 @@ namespace CompanyDashboard.Controllers
         }
 
 
+        [HttpDelete]
+        [Route("api/employees/{id}")]
+        public async Task<IActionResult> DeleteEmployee(int id)
+        {
+            var employee = await _context.Employees.FindAsync(id);
+            if (employee == null)
+            {
+                return NotFound(new { error = "Employee not found." });
+            }
+
+            _context.Employees.Remove(employee);
+            await _context.SaveChangesAsync();
+            await _hubContext.Clients.All.SendAsync("ReceiveUpdate");
+            return Ok(new { msg = "Employee deleted successfully." });
+        }
+
+
+
     }
 }

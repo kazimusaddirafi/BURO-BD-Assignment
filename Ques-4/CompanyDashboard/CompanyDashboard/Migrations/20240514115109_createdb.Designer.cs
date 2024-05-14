@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CompanyDashboard.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240513015454_createdb")]
+    [Migration("20240514115109_createdb")]
     partial class createdb
     {
         /// <inheritdoc />
