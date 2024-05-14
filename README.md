@@ -58,6 +58,14 @@ In this repo, I have added a total of 5 questions answer.
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. Id of item to fetch |
 
+## Ques-4. SinglaR
+
+
+https://github.com/kazimusaddirafi/BURO-BD-Assignment/assets/169454107/5c9ddb12-bdcb-4f18-89b6-843bb03b8943
+
+
+
+
 
 ## Ques-5  Login Page
 
